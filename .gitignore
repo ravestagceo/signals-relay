@@ -1,0 +1,14 @@
+# Файл с секретами (API ключи, токен бота)
+.env
+
+# Виртуальное окружение Python
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Файлы IDE (если используете VSCode или PyCharm)
+.vscode/
+.idea/
